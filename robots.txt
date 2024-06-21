@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://iumplath.github.io/sitemap
+Sitemap: https://iumplath.github.io/app/sitemap
+Sitemap: https://iumplath.github.io/assets/sitemap
+Sitemap: https://iumplath.github.io/css/sitemap
+Sitemap: https://iumplath.github.io/includes/sitemap
+Sitemap: https://iumplath.github.io/item/sitemap
+Sitemap: https://iumplath.github.io/src/sitemap
